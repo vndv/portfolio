@@ -6,3 +6,20 @@
 - VSCode, PyCharm, DataGrip, SQLDeveloper
 - HTML5, CSS3, SCSS/LESS,Bootstrap 4
 - Linux,Vagrant,VirtualBox
+
+### Мои проекты:
+<div class="w3-responsive">
+<font size="12px">
+<table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
+<thead>
+<tr class="w3-white">
+<th width="40%">Проект</th>
+<th width="60%">Технологии</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://stepik-travel-guide.herokuapp.com/">Travel Guide</a></td>
+<td>Python, Flask, HTML, Bootstrap, Heroku </td>
+</tr>
+</div>
