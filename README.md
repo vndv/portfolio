@@ -6,6 +6,7 @@
 - VSCode, PyCharm, DataGrip, SQLDeveloper
 - HTML5, CSS3, SCSS,Bootstrap 4
 - Linux,Vagrant,VirtualBox
+- Heroku
 
 ### Мои проекты:
 <div class="w3-responsive">
