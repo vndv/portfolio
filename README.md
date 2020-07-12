@@ -4,7 +4,7 @@
 - Python,Flask
 - Git, Github, Gitlab, Bitbucket
 - VSCode, PyCharm, DataGrip, SQLDeveloper
-- HTML5, CSS3, SCSS/LESS,Bootstrap 4
+- HTML5, CSS3, SCSS,Bootstrap 4
 - Linux,Vagrant,VirtualBox
 
 ### Мои проекты:
