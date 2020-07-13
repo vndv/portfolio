@@ -5,7 +5,7 @@
 - PostgreSQL
 - Git, Github, Gitlab
 - VSCode, PyCharm, DataGrip, SQLDeveloper
-- HTML5, CSS3, SCSS, Bootstrap 4
+- HTML5, CSS3, SCSS, Bootstrap 4, Jinja2
 - Linux, Vagrant, VirtualBox
 - Heroku
 
