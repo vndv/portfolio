@@ -2,6 +2,7 @@
 
 ### Стек технологий:
 - Python,Flask
+- PostgreSQL
 - Git, Github, Gitlab
 - VSCode, PyCharm, DataGrip, SQLDeveloper
 - HTML5, CSS3, SCSS, Bootstrap 4
