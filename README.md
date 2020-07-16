@@ -24,4 +24,8 @@
 <td><a href="https://stepik-travel-guide.herokuapp.com/">Travel Guide</a></td>
 <td>Python, Flask, HTML, Bootstrap, Heroku </td>
 </tr>
+<tr>
+<td><a href="https://tiny-steps.herokuapp.com/">Tiny Steps</a></td>
+<td>Python, Flask, HTML, Bootstrap, Heroku </td>
+</tr>
 </div>
