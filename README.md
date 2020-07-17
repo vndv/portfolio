@@ -16,8 +16,8 @@
 <thead>
 <tr class="w3-white">
 <th width="20%">Проект</th>
-<th width="40%">Технологии</th>
-<th width="40%">Ссылка на проект</th>
+<th width="50%">Технологии</th>
+<th width="30%">Ссылка на проект</th>
 </tr>
 </thead>
 <tbody>
