@@ -3,11 +3,11 @@
 ### Стек технологий:
 - Python,Flask
 - PostgreSQL
-- Git, Github, Gitlab
+- Git, Github
 - VSCode, PyCharm, DataGrip, SQLDeveloper
 - HTML5, CSS3, SCSS, Bootstrap 4, Jinja2
 - Linux, Vagrant, VirtualBox
-- Heroku
+- Heroku, AWS
 
 ### Мои проекты:
 <div class="w3-responsive">
