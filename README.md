@@ -32,6 +32,9 @@
 <td><a href="https://github.com/VanDev421/TinySteps">Tiny Steps</a></td>
 </tr>
 </div>
+</tbody>
+</table>
+</div>
   
   
 ### Мои проекты Data Engineering:
@@ -51,4 +54,7 @@
 <td>Draw.io </td>
 <td><a href="https://github.com/VanDev421/data_engineering/blob/master/Solution%20Architecture/Solution_Architecture.png">Analytical Solution Architecture</a></td>
 </tr>
+</div>
+</tbody>
+</table>
 </div>
