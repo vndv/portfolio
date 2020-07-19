@@ -34,7 +34,9 @@
 </div>
 </tbody>
 </table>
+</font>
 </div>
+</br>
   
   
 ### Мои проекты Data Engineering:
@@ -57,4 +59,5 @@
 </div>
 </tbody>
 </table>
+</font>
 </div>
