@@ -24,12 +24,12 @@
 <tr>
 <td><a href="https://stepik-travel-guide.herokuapp.com/">Travel Guide</a></td>
 <td>Python, Flask, HTML, Bootstrap, Heroku </td>
-<td><a href="https://github.com/VanDev421/Travel">Travel Guide</a></td>
+<td align="center"><a href="https://github.com/VanDev421/Travel">Travel Guide</a></td>
 </tr>
 <tr>
 <td><a href="https://tiny-steps.herokuapp.com/">Tiny Steps</a></td>
 <td>Python, Flask, HTML, Bootstrap, Heroku </td>
-<td><a href="https://github.com/VanDev421/TinySteps">Tiny Steps</a></td>
+<td align="center"><a href="https://github.com/VanDev421/TinySteps">Tiny Steps</a></td>
 </tr>
 </tbody>
 </table>
@@ -46,14 +46,14 @@
 <tr class="w3-white">
 <th width="30%">Проект</th>
 <th width="40%">Технологии</th>
-<th width="30%">Ссылка на проект</th>
+<th>Ссылка на проект</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Архитектура Аналитического Решения</td>
 <td>Draw.io </td>
-<td><a href="https://github.com/VanDev421/data_engineering/blob/master/Solution%20Architecture/Solution_Architecture.png">Analytical Solution Architecture</a></td>
+<td align="center"><a href="https://github.com/VanDev421/data_engineering/blob/master/Solution%20Architecture/Solution_Architecture.png">Analytical Solution Architecture</a></td>
 </tr>
 </tbody>
 </table>
