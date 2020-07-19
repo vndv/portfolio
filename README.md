@@ -9,7 +9,7 @@
 - Linux, Vagrant, VirtualBox
 - Heroku, AWS
 
-### Мои проекты:
+### Мои проекты Web-Development:
 <div class="w3-responsive">
 <font size="12px">
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
@@ -30,5 +30,25 @@
 <td><a href="https://tiny-steps.herokuapp.com/">Tiny Steps</a></td>
 <td>Python, Flask, HTML, Bootstrap, Heroku </td>
 <td><a href="https://github.com/VanDev421/TinySteps">Tiny Steps</a></td>
+</tr>
+</div>
+  
+  
+### Мои проекты Data Engineering:
+<div class="w3-responsive">
+<font size="12px">
+<table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
+<thead>
+<tr class="w3-white">
+<th width="20%">Проект</th>
+<th width="50%">Технологии</th>
+<th width="30%">Ссылка на проект</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Архитектура Аналитического Решения</td>
+<td>Draw.io </td>
+<td><a href="https://github.com/VanDev421/data_engineering/blob/master/Solution%20Architecture/Solution_Architecture.png">Analytical Solution Architecture</a></td>
 </tr>
 </div>
