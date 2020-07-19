@@ -3,9 +3,9 @@
 ### Стек технологий:
 - Python,Flask
 - PostgreSQL
-- Git, Github
-- VSCode, PyCharm, DataGrip, SQLDeveloper
-- HTML5, CSS3, SCSS, Bootstrap 4, Jinja2
+- Git, Github, GirKraken
+- VSCode, PyCharm, DataGrip, DBeaver
+- HTML5, CSS3, SCSS, Bootstrap 4
 - Linux, Vagrant, VirtualBox
 - Heroku, AWS
 
