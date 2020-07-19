@@ -15,8 +15,8 @@
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th width="20%">Проект</th>
-<th width="50%">Технологии</th>
+<th width="40%">Проект</th>
+<th width="60%">Технологии</th>
 <th>Ссылка на проект</th>
 </tr>
 </thead>
@@ -31,7 +31,6 @@
 <td>Python, Flask, HTML, Bootstrap, Heroku </td>
 <td><a href="https://github.com/VanDev421/TinySteps">Tiny Steps</a></td>
 </tr>
-</div>
 </tbody>
 </table>
 </font>
@@ -45,8 +44,8 @@
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th width="20%">Проект</th>
-<th width="50%">Технологии</th>
+<th width="40%">Проект</th>
+<th width="60%">Технологии</th>
 <th>Ссылка на проект</th>
 </tr>
 </thead>
@@ -56,7 +55,6 @@
 <td>Draw.io </td>
 <td><a href="https://github.com/VanDev421/data_engineering/blob/master/Solution%20Architecture/Solution_Architecture.png">Analytical Solution Architecture</a></td>
 </tr>
-</div>
 </tbody>
 </table>
 </font>
