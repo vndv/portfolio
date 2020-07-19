@@ -15,9 +15,9 @@
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th width="40%">Проект</th>
-<th width="60%">Технологии</th>
-<th>Ссылка на проект</th>
+<th width="25%">Проект</th>
+<th width="50%">Технологии</th>
+<th width="25%">Ссылка на проект</th>
 </tr>
 </thead>
 <tbody>
