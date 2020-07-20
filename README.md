@@ -2,7 +2,7 @@
 
 ### Стек технологий:
 - Python,Flask
-- PostgreSQL
+- PostgreSQL, SQLAlchemy
 - Git, Github, GirKraken
 - VSCode, PyCharm, DataGrip, DBeaver
 - HTML5, CSS3, SCSS, Bootstrap 4
@@ -28,7 +28,7 @@
 </tr>
 <tr>
 <td><a href="https://tiny-steps.herokuapp.com/">Tiny Steps</a></td>
-<td>Python, Flask, HTML, Bootstrap, Heroku </td>
+<td>Python, Flask, HTML, Bootstrap, Heroku, JSON </td>
 <td align="center"><a href="https://github.com/VanDev421/TinySteps">Tiny Steps</a></td>
 </tr>
 </tbody>
@@ -46,7 +46,7 @@
 <tr class="w3-white">
 <th width="30%">Проект</th>
 <th width="40%">Технологии</th>
-<th width="40%">Ссылка на проект</th>
+<th width="40%">Исходный код</th>
 </tr>
 </thead>
 <tbody>
