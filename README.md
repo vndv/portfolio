@@ -44,9 +44,9 @@
 <table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
 <thead>
 <tr class="w3-white">
-<th width="30%">Проект</th>
-<th width="40%">Технологии</th>
-<th width="40%">Исходный код</th>
+<th width="25%">Проект</th>
+<th width="50%">Технологии</th>
+<th width="25%">Исходный код</th>
 </tr>
 </thead>
 <tbody>
