@@ -17,7 +17,7 @@
 <tr class="w3-white">
 <th width="25%">Проект</th>
 <th width="50%">Технологии</th>
-<th width="25%">Ссылка на проект</th>
+<th width="25%">Исходный код</th>
 </tr>
 </thead>
 <tbody>
