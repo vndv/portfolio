@@ -53,7 +53,7 @@
 <tr>
 <td>Архитектура Аналитического Решения</td>
 <td>Draw.io </td>
-<td align="center"><a href="https://github.com/VanDev421/DE-101/tree/master/Module-1">Analytical Solution Architecture</a></td>
+<td align="center"><a href="https://github.com/VanDev421/DE-101/blob/master/Module-1/Solution_Architecture.png">Analytical Solution Architecture</a></td>
 </tr>
 </tbody>
 </table>
