@@ -34,7 +34,7 @@
 <tr>
 <td><a href="https://simple-todo-master.herokuapp.com/">Task Manager</a></td>
 <td>Python, Flask, SQLite, HTML, Bootstrap, Heroku </td>
-<td align="center"><a href="https://github.com/VanDev421/Task_Manager">Tiny Steps</a></td>
+<td align="center"><a href="https://github.com/VanDev421/Task_Manager">Task Manager</a></td>
 </tr>
 </tbody>
 </table>
