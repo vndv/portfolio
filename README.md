@@ -36,6 +36,11 @@
 <td>Python, Flask, SQLite, HTML, Bootstrap, Heroku </td>
 <td align="center"><a href="https://github.com/VanDev421/Task_Manager">Task Manager</a></td>
 </tr>
+<tr>
+<td><a href="https://tiny-steps.herokuapp.com/">Tiny Steps SQL</a></td>
+<td> Python, Flask, HTML, Bootstrap, Heroku, SQLite </td>
+<td align="center"><a href="https://github.com/VanDev421/Tiny-Steps-SQL">Tiny Steps</a></td>
+</tr>
 </tbody>
 </table>
 </font>
