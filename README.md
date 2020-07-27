@@ -39,7 +39,7 @@
 <tr>
 <td><a href="https://tiny-steps.herokuapp.com/">Tiny Steps SQL</a></td>
 <td> Python, Flask, HTML, Bootstrap, Heroku, SQLite </td>
-<td align="center"><a href="https://github.com/VanDev421/Tiny-Steps-SQL">Tiny Steps</a></td>
+<td align="center"><a href="https://github.com/VanDev421/Tiny-Steps-SQL">Tiny Steps SQL</a></td>
 </tr>
 </tbody>
 </table>
