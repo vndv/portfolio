@@ -67,7 +67,7 @@
 </tr>
  <tr>
 <td>Аналитика в Excel</td>
-<td>Draw.io </td>
+<td>Excel </td>
 <td align="center"><a href="https://github.com/VanDev421/DE-101/blob/master/Module-1/Sample%20-%20Superstore.xlsx">Аналитика продаж</a></td>
 </tr>
 </tbody>
