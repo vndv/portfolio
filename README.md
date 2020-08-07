@@ -48,30 +48,3 @@
 </br>
   
   
-### Мои проекты Data Engineering:
-<div class="w3-responsive">
-<font size="12px">
-<table style="font-size: 80%" width="100%" class="w3-table-all notranslate" id="myTable">
-<thead>
-<tr class="w3-white">
-<th width="25%">Проект</th>
-<th width="50%">Технологии</th>
-<th width="25%">Исходный код</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Архитектура Аналитического Решения</td>
-<td>Draw.io </td>
-<td align="center"><a href="https://github.com/VanDev421/DE-101/blob/master/Module-1/Solution_Architecture.png">Analytical Solution Architecture</a></td>
-</tr>
- <tr>
-<td>Аналитика в Excel</td>
-<td>Excel </td>
-<td align="center"><a href="https://github.com/VanDev421/DE-101/blob/master/Module-1/Sample%20-%20Superstore.xlsx">Аналитика продаж</a></td>
-</tr>
-</tbody>
-</table>
-</font>
-</div>
-
