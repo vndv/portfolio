@@ -41,6 +41,11 @@
 <td> Python, Flask, HTML, Bootstrap, Heroku, SQLite </td>
 <td align="center"><a href="https://github.com/VanDev421/Tiny-Steps-SQL">Tiny Steps SQL</a></td>
 </tr>
+<tr>
+<td><a href="https://stepik-delivery.herokuapp.com/">Stepik-Delivery</a></td>
+<td> Python, Flask, HTML, Bootstrap, Heroku, SQLite </td>
+<td align="center"><a href="https://github.com/VanDev421/Stepik-Delivery">Stepik-delivery</a></td>
+</tr>
 </tbody>
 </table>
 </font>
