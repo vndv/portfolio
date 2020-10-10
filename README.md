@@ -24,27 +24,27 @@
 <tr>
 <td><a href="https://stepik-travel-guide.herokuapp.com/">Travel Guide</a></td>
 <td>Python, Flask, HTML, Bootstrap, Heroku </td>
-<td align="center"><a href="https://github.com/VanDev421/Travel">Travel Guide</a></td>
+<td align="center"><a href="https://github.com/im-vanich/travel">Travel Guide</a></td>
 </tr>
 <tr>
 <td><a href="https://tiny-steps.herokuapp.com/">Tiny Steps</a></td>
 <td>Python, Flask, HTML, Bootstrap, Heroku, JSON </td>
-<td align="center"><a href="https://github.com/VanDev421/TinySteps">Tiny Steps</a></td>
+<td align="center"><a href="https://github.com/im-vanich/TinySteps">Tiny Steps</a></td>
 </tr>
 <tr>
 <td><a href="https://simple-todo-master.herokuapp.com/">Task Manager</a></td>
 <td>Python, Flask, SQLite, HTML, Bootstrap, Heroku </td>
-<td align="center"><a href="https://github.com/VanDev421/Task_Manager">Task Manager</a></td>
+<td align="center"><a href="https://github.com/im-vanich/Task_Manager">Task Manager</a></td>
 </tr>
 <tr>
 <td><a href="https://tiny-steps.herokuapp.com/">Tiny Steps SQL</a></td>
 <td> Python, Flask, HTML, Bootstrap, Heroku, SQLite </td>
-<td align="center"><a href="https://github.com/VanDev421/Tiny-Steps-SQL">Tiny Steps SQL</a></td>
+<td align="center"><a href="https://github.com/im-vanich/Tiny-Steps-SQL">Tiny Steps SQL</a></td>
 </tr>
 <tr>
 <td><a href="https://stepik-delivery.herokuapp.com/">Stepik-Delivery</a></td>
 <td> Python, Flask, HTML, Bootstrap, Heroku, SQLite </td>
-<td align="center"><a href="https://github.com/VanDev421/Stepik-Delivery">Stepik-delivery</a></td>
+<td align="center"><a href="https://github.com/im-vanich/stepik-delivery">Stepik-delivery</a></td>
 </tr>
 </tbody>
 </table>
