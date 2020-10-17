@@ -1,8 +1,8 @@
 # Матвеев Иван &middot; [![](https://img.shields.io/badge/resume-hh-red)](https://lobnya.hh.ru/resume/5ea62208ff01a2a4290039ed1f354774426b73) [![](https://img.shields.io/badge/-codewars-%23952c1f)](https://www.codewars.com/users/vandev421)
 
 ### Стек технологий:
-- Python,Flask
-- PostgreSQL, SQLite, SQLAlchemy
+- JavaScript, Python, Flask
+- PostgreSQL,Oracle SQL, SQLite, SQLAlchemy
 - Git, Github, GirKraken
 - VSCode, PyCharm, DataGrip, DBeaver
 - HTML5, CSS3, SCSS, Bootstrap 4
